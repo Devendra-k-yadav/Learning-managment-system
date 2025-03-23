@@ -9,4 +9,3 @@ vite.config.js
 public/
 .eslintrc.cjs
 readme.txt
-src/components/
