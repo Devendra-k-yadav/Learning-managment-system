@@ -28,7 +28,6 @@ function Section2() {
         </p>
 
 
-
         <div className="btns flex mt-10 w-96 justify-around">
           <button className="btn btn-warning capitalize hover:scale-90">
             try yourSelf
